@@ -1,7 +1,0 @@
-{
-  "name": "todo_montage_front",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "custom"
-}
